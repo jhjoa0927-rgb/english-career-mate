@@ -1,0 +1,6 @@
+{
+  "name": "ENGLISH CAREER MATE",
+  "description": "영문과 학생을 위한 AI 맞춤형 진로 컨설팅 및 학기별 로드맵 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
